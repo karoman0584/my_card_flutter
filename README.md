@@ -1,2 +1,2 @@
-# my_card_flutter
-My cart flutter project
+# My Card Flutter
+My card flutter project
