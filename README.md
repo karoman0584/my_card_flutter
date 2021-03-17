@@ -3,7 +3,7 @@ My card flutter project using Android Studio
 
 ## What you will create
 
-![Finished App](https://raw.githubusercontent.com/karoman0584/Images/main/my-card-flutter-demo.png)
+![Finished App](https://github.com/karoman0584/Images/blob/main/my-card-flutter-demo.png)
 
 ## What you will learn
 
